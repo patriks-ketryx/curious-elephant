@@ -2,7 +2,7 @@
 itemTitle: LIST
 ---
 - test bullet 1
-![elephant](./images/elephant.jpg)
+![horse](./images/horse.jpg)
 
 - test bullet 2
-![horse](./images/horse.jpg)
+![elephant](./images/elephant.jpg)
